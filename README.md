@@ -20,6 +20,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=narajab&theme=gruvbox&no-frame=true&title=Multilanguage,Repositories,PullRequest,Experience,Followers,Commits" alt="Trophies" />
 </p>
 
-p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narajab&show_icons=true&locale=en&layout=compact" alt="narajab" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narajab&show_icons=true&locale=en" alt="narajab" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narajab" alt="narajab" /></a> </p>
