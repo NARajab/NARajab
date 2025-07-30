@@ -5,15 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=narajab&label=Profile%20views&color=0e75b6&style=flat" alt="narajab" />
 </p>
 
-<!-- GitHub Top Languages -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narajab&theme=tokyonight&show_icons=true&locale=en&layout=compact" />
-</p>
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narajab&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=narajab&theme=tokyonight&show_icons=true&locale=en&include_all_commits=true" alt="GitHub Stats" />
+</div>
 
-<!-- GitHub Stats (lifetime commits & stats) -->
-<p>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=narajab&theme=tokyonight&show_icons=true&locale=en&include_all_commits=true" />
-</p>
 
 <!-- GitHub Trophies -->
 <p align="center">
