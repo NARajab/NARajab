@@ -7,10 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=narajab&theme=tokyonight&show_icons=true&locale=en&include_all_commits=true" alt="GitHub Stats" height="150" />
 </div>
 
-<!-- Trophy section -->
+<!-- GitHub Trophies -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=narajab&theme=chalk&no-frame=true&title=MultiLanguage,Repositories,PullRequest,Experience,Followers,Commits" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=narajab&theme=gruvbox&no-frame=true&title=MultiLanguage,Repositories,PullRequest,Experience,Followers,Commits" alt="Trophies" />
 </p>
 
