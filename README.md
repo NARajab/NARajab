@@ -9,6 +9,6 @@
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=narajab&theme=gruvbox&no-frame=true&title=MultiLanguage,Repositories,PullRequest,Experience,Followers,Commits" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=narajab&theme=gruvbox&no-frame=true&title=Repositories,PullRequest,Experience,Followers,Commits" alt="Trophies" />
 </p>
 
