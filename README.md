@@ -7,12 +7,12 @@
 
 <!-- GitHub Top Languages -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narajab&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narajab&theme=chalk&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <!-- GitHub Stats (lifetime commits & stats) -->
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=narajab&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=narajab&theme=chalk&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <!-- GitHub Trophies -->
