@@ -17,7 +17,5 @@
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=narajab&theme=gruvbox&no-frame=true&title=MultiLanguage,Repositories,PullRequest,Experience,Followers,Commits" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=narajab&theme=chalk&no-frame=true&title=MultiLanguage,Repositories,PullRequest,Experience,Followers,Commits" alt="Trophies" />
 </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narajab" alt="narajab" /></a> </p>
