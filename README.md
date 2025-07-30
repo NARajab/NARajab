@@ -12,7 +12,7 @@
 
 <!-- GitHub Stats (lifetime commits & stats) -->
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=narajab&theme=chalk&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=narajab&theme=tokyonight&show_icons=true&locale=en&include_all_commits=true&count_private=true" />
 </p>
 
 <!-- GitHub Trophies -->
