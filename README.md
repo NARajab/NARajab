@@ -15,6 +15,6 @@
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narajab" alt="narajab" /></a> </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narajab" alt="narajab" /></a>
 </p>
 
