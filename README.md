@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=narajab&label=Profile%20views&color=0e75b6&style=flat" alt="narajab" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narajab&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150" align="middle" />
   <img src="https://github-readme-stats.vercel.app/api?username=narajab&theme=tokyonight&show_icons=true&locale=en&include_all_commits=true" alt="GitHub Stats" height="150" align="middle" style="margin-left:20px;" />
 </p>
