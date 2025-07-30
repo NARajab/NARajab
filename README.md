@@ -19,6 +19,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=narajab&theme=gruvbox&no-frame=true&title=Multilanguage,Repositories,PullRequest,Experience,Followers,Commits" alt="Trophies" />
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=narajab&theme=gruvbox&no-frame=true&title=Repositories,Followers,Commits,PullRequest,Experience,Multilanguage" />
+<img src="https://github-profile-trophy.vercel.app/?username=narajab&theme=gruvbox&no-frame=true&title=Repositories,Followers,Commits,PullRequest,Experience,MultiLanguage-rank-progress" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narajab" alt="narajab" /></a> </p>
