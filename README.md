@@ -19,3 +19,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=narajab&theme=gruvbox&no-frame=true&title=Multilanguage,Repositories,PullRequest,Experience,Followers,Commits" alt="Trophies" />
 </p>
+
+p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narajab&show_icons=true&locale=en&layout=compact" alt="narajab" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narajab&show_icons=true&locale=en" alt="narajab" /></p>
