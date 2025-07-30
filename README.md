@@ -7,7 +7,7 @@
 
 <!-- GitHub Top Languages -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narajab&theme=chalk&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narajab&theme=tokyonight&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <!-- GitHub Stats (lifetime commits & stats) -->
